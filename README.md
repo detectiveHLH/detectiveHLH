@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<p align="center">
+  <a href="https://mp.weixin.qq.com/s/4MToO5IEL7yWVVaWgrMzlg"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
+  <a href="https://mp.weixin.qq.com/s/MNrlJUHNHEx0hyoBIbmqgg"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-SH的全栈笔记-lightgrey.svg" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/detectivehlh"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
+  <a href="https://juejin.cn/user/3509296845029384"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
+  <a href="https://blog.csdn.net/weixin_42667608"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAs5ezqjFAtzshP_qVxpG7qfaG-dSjUk2p6E_12bPmicE/"><img src="https://img.shields.io/badge/toutiao-今日头条-9cf" alt="投稿"></a>
+  <a href="https://my.oschina.net/leonsh"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
+  <a href="https://www.cnblogs.com/detectiveHLH/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
+</p>
+
+[![LeonSH's github stats](https://github-readme-stats.vercel.app/api?username=detectiveHLH&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/detectiveHLH/sh-blog)
+
+
+欢迎关注我的公众号
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gshj1k4ycoj31eg0hcwhm.jpg)
