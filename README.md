@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 欢迎关注我的微信公众号
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gshj1k4ycoj31eg0hcwhm.jpg" width="50%" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gtn1yw3t2cj61eg0hc40n02.jpg" width="50%" />
